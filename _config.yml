@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sesh Nadathur"
-  avatar           : "images/profile_photo"
+  avatar           : "images/profile_photo.png"
   bio              : "Cosmologist studying the large-scale structure of the Universe. STFC Ernest Rutherford Fellow."
   location         : "Portsmouth, UK"
   employer         :
