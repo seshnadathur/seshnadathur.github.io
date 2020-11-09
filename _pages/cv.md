@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version (updated November 2020) is available [here](https://github.com/seshnadathur/seshnadathur.github.io/blob/master/files/Nadathur_CV.pdf). A brief summary is provided below.
+A PDF version (updated November 2020) is available [here](http://seshnadathur.github.io/files/Nadathur_CV.pdf). A brief summary is provided below.
 
 Positions
 ------
