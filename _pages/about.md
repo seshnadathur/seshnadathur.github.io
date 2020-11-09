@@ -21,7 +21,7 @@ My research
 My research covers theory, simulation and observational cosmology, with a focus on methods of analysing galaxy survey data to understand the effects of dark energy and dark matter in the Universe. I use a combination of many techniques to achieve this, including redshift-space distortions, baryon acoustic oscillations, gravitational lensing and secondary CMB anisotropies. I am particularly interested in the use of cosmic voids – low-density regions identified in 3D maps of the galaxy distribution – as exciting tools to enhance the effectiveness of all these analyses. I also work on models of decaying dark matter and inflation in the early Universe.
 
 I am a member of several international survey collaborations:
-- [Euclid](https://www.euclid-ec.org/?_ga=2.46415655.1079985913.1604922658-1106304154.1581260477)
+- ESA [Euclid Consortium](https://www.euclid-ec.org/?_ga=2.46415655.1079985913.1604922658-1106304154.1581260477)
 - the Dark Energy Spectroscopic Instrument ([DESI](https://www.desi.lbl.gov/?_ga=2.83984153.1079985913.1604922658-1106304154.1581260477))
 - the extended Baryon Oscillation Spectroscopic Survey ([eBOSS](https://www.sdss.org/surveys/eboss/?_ga=2.37810211.1079985913.1604922658-1106304154.1581260477)), part of the Sloan Digital Sky Survey ([SDSS-IV](https://www.sdss.org/))
 - the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/?_ga=2.1317809.1079985913.1604922658-1106304154.1581260477))
