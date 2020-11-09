@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Seshadri Nadathur"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Seshadri Nadathur, and I am a Research Fellow at the [Institute of Cosmology and Gravitation](http://www.icg.port.ac.uk/) at the [University of Portsmouth](https://www.port.ac.uk/) (until Dec 2020), and [STFC](https://stfc.ukri.org/) [Ernest Rutherford Fellow](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) at [University College London](https://www.ucl.ac.uk/physics-astronomy/) (from Jan 2021). I study the properties of dark energy, dark matter and gravity using data on large-scale structure of the Universe gathered by galaxy surveys on the world's leading telescopes. I am particularly interested in novel probes based on the use of cosmic voids.
+Welcome to my website! My name is Seshadri Nadathur, and I am a Research Fellow at the [Institute of Cosmology and Gravitation](http://www.icg.port.ac.uk/) at the [University of Portsmouth](https://www.port.ac.uk/) (until Dec 2020), and [STFC](https://stfc.ukri.org/) [Ernest Rutherford Fellow](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) at [University College London](https://www.ucl.ac.uk/physics-astronomy/) (from Jan 2021). I study the properties of dark energy, dark matter and gravity using data on large-scale structure of the Universe gathered by galaxy surveys on the world's leading telescopes. I am particularly interested in novel probes based on the use of cosmic voids.
 
 My background
 ======
