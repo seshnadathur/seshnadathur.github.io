@@ -6,11 +6,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Data"
+    url: /data/
+
   - title: "Talks"
     url: /talks/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Media and outreach"
+    url: /outreach/
 
   - title: "CV"
     url: /cv/
