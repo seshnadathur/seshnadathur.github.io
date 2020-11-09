@@ -6,14 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Data"
-    url: /data/
-
-  - title: "Code"
+  - title: "Data & Code"
     url: /code/
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
   - title: "Teaching"
     url: /teaching/
