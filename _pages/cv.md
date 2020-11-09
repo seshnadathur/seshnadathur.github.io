@@ -21,15 +21,15 @@ Positions
 
 Selected Awards and Fellowships
 ------
-* **2020** STFC Ernest Rutherford Fellowship
-* **2015** Marie Curie Individual Fellowship
-* **2015** Dennis Sciama Fellowship
-* **2011** University of Oxford Vice Chancellor's Award
-* **2007** Clarendon Domus Scholarship and Overseas Research Award, University of Oxford
-* **2005** Rhodes Scholarship (India & Trinity)
+* **2020**: STFC Ernest Rutherford Fellowship (~£528K)
+* **2015**: Marie Curie Individual Fellowship (~€183K)
+* **2015**: Dennis Sciama Fellowship
+* **2011**: University of Oxford Vice Chancellor's Award
+* **2007**: Clarendon Domus Scholarship and Overseas Research Award, University of Oxford
+* **2005**: Rhodes Scholarship (India & Trinity)
 
 Education
 ------
-* **2011** DPhil in Theoretical Physics, University of Oxford (Merton College)
-* **2007** MPhys (first class), University of Oxford (Trinity College)
-* **2005** BSc (Hons) in Physics (first class), University of Delhi (St Stephen's College)
+* **2011**: DPhil in Theoretical Physics, University of Oxford (Merton College)
+* **2007**: MPhys (first class), University of Oxford (Trinity College)
+* **2005**: BSc (Hons) in Physics (first class), University of Delhi (St Stephen's College)
