@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! My name is Seshadri Nadathur, and I am a Research Fellow at the [Institute of Cosmology and Gravitation](http://www.icg.port.ac.uk/) at the [University of Portsmouth](https://www.port.ac.uk/) (until Dec 2020), and [STFC](https://stfc.ukri.org/) [Ernest Rutherford Fellow](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) at [University College London](https://www.ucl.ac.uk/physics-astronomy/) (from Jan 2021).
 
-I study the properties of dark energy, dark matter and gravity using data on large-scale structure of the Universe gathered by galaxy surveys on the world's leading telescopes. I am particularly interested in novel probes based on the use of cosmic voids.
+I study the properties of dark energy, dark matter and gravity using data on large-scale structure of the Universe gathered by galaxy surveys on the world's leading telescopes.
 
 My background
 ======
@@ -18,7 +18,7 @@ I grew up in Delhi, India, where I did my undergraduate degree at the University
 
 My research
 ======
-My work covers theory, simulation and observational cosmology. I am interested in methods of analysing galaxy survey data to understand the effects of dark energy and dark matter in the Universe. I use a combination of many techniques to achieve this, including redshift-space distortions, baryon acoustic oscillations, gravitational lensing and secondary CMB anisotropies. I am particularly interested in the use of cosmic voids – low-density regions identified in 3D maps of the galaxy distribution – as exciting tools to enhance the effectiveness of all these analyses. I also work on theoretical models of decaying dark matter and inflation in the early Universe.
+My research covers theory, simulation and observational cosmology, with a focus on methods of analysing galaxy survey data to understand the effects of dark energy and dark matter in the Universe. I use a combination of many techniques to achieve this, including redshift-space distortions, baryon acoustic oscillations, gravitational lensing and secondary CMB anisotropies. I am particularly interested in the use of cosmic voids – low-density regions identified in 3D maps of the galaxy distribution – as exciting tools to enhance the effectiveness of all these analyses. I also work on models of decaying dark matter and inflation in the early Universe.
 
 I am a member of several international survey collaborations:
 - [Euclid](https://www.euclid-ec.org/?_ga=2.46415655.1079985913.1604922658-1106304154.1581260477)
