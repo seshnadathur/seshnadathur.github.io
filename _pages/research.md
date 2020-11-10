@@ -11,5 +11,5 @@ I am a theoretical astrophysicist, interested in using measurements of large-sca
 
 ## Testing dark energy with large-scale structure
 
-| ![](../images/concordance.jpg) | Here is a large amount of text that I intend to use to describe this image but right now I am just testing out the table formatting |
-| a caption | |
+ ![](../images/concordance.jpg) | Here is a large amount of text that I intend to use to describe this image but right now I am just testing out the table formatting 
+ a caption |
