@@ -22,7 +22,7 @@ Positions
 Selected Awards and Fellowships
 ------
 * **2020** &mdash; STFC Ernest Rutherford Fellowship (~£528K)
-* **2015** &mdash; Marie Curie Individual Fellowship (~€183K)
+* **2015** &mdash; Marie Sk&#0322;odowska-Curie Individual Fellowship (~€183K)
 * **2015** &mdash; Dennis Sciama Fellowship
 * **2011** &mdash; University of Oxford Vice Chancellor's Award
 * **2007** &mdash; Clarendon Domus Scholarship and Overseas Research Award, University of Oxford
