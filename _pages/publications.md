@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <html>
+<head>
 <script type="text/javascript">
 <!--
 var arxiv_authorid="nadathur_s_1";
@@ -28,6 +29,8 @@ div#arxivfeed div#arxivcontainer div.meta div.list-authors {
 </style>
 <script type="text/javascript" src="https://arxiv.org/js/myarticles.js">
 </script>
+</head>
+
 <body>
 <p>Feed should appear here?</p>
 <div id="arxivfeed"></div>
