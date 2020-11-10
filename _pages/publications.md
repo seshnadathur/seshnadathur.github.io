@@ -12,7 +12,7 @@ You can find a full list of my publications at [NASA ADS](https://ui.adsabs.harv
 {% assign num = site.publications.size %}
 {% assign rev_pubs = site.publications reversed %}
 
-{% for i in (1..num) %}
+{% for i in (1..num) reversed %}
   {{ i }}
 {% endfor %}
 
