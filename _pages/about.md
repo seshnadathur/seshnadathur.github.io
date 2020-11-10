@@ -22,6 +22,6 @@ My research covers theory, simulation and observational cosmology, with a focus 
 
 I am a member of several international survey collaborations:
 - ESA [Euclid Consortium](https://www.euclid-ec.org/?_ga=2.46415655.1079985913.1604922658-1106304154.1581260477)
-- the Dark Energy Spectroscopic Instrument ([DESI](https://www.desi.lbl.gov/?_ga=2.83984153.1079985913.1604922658-1106304154.1581260477))
+- the Dark Energy Spectroscopic Instrument ([DESI](https://www.desi.lbl.gov/?_ga=2.83984153.1079985913.1604922658-1106304154.1581260477)) survey
 - the extended Baryon Oscillation Spectroscopic Survey ([eBOSS](https://www.sdss.org/surveys/eboss/?_ga=2.37810211.1079985913.1604922658-1106304154.1581260477)), part of the Sloan Digital Sky Survey ([SDSS-IV](https://www.sdss.org/))
 - the Dark Energy Survey ([DES](https://www.darkenergysurvey.org/?_ga=2.1317809.1079985913.1604922658-1106304154.1581260477))
