@@ -8,3 +8,7 @@ author_profile: true
 (under construction ...)
 
 I am a theoretical astrophysicist, interested in using measurements of large-scale structure of the Universe to learn about dark energy and cosmology. I am best known for my work developing the use of cosmic voids as a precision tool for such studies. My work covers theory, simulation and observations of redshift-space distortions, baryon acoustic oscillations, gravitational lensing and secondary CMB anisotropies. I am a member of the Euclid, DESI, DES and eBOSS galaxy survey collaborations, and co-lead of the Voids Work Package in Euclid.
+
+## Testing dark energy with large-scale structure
+
+| ![](../images/concordance.jpg) | Here is a large amount of text that I intend to use to describe this image but right now I am just testing out the table formatting |
