@@ -11,9 +11,8 @@ I am best known for my work developing the use of *cosmic voids* as a precision 
 
 I am a member of the Euclid, DESI, DES and eBOSS galaxy survey collaborations. In Euclid, I am co-lead of the Voids Work Package (WP:V) and validation lead for the galaxy sample selection (SEL-ID) and spectroscopic visibility mask (VMSP-ID) processing functions in the Science Ground Segment.
 
+Scroll down for a description of some research highlights
 
-## Testing dark energy with large-scale structure
+### Testing dark energy with large-scale structure
 
-| {% include image.html url="../images/concordance.jpg" description="caption" %} | |
-
-
+| ![](../images/concordance.jpg) | some text <br> some more text |
