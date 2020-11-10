@@ -17,3 +17,4 @@ You can find my full publication list [here](publications.md). Or follow the lin
 <p style="text-align: center"> Testing cosmic acceleration with large-scale structure</p>
 </a> 
 
+#####[Testing cosmic acceleration with large-scale structure <img src="../images/concordance.jpg" style="width:256px;height:256px;">](code.md)
