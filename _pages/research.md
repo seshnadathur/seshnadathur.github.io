@@ -13,6 +13,6 @@ I am a member of the Euclid, DESI, DES and eBOSS galaxy survey collaborations. I
 
 You can find my full publication list [here](publications.md). Or follow the links below to read more about some research highlights.
 
-<a href="code.md"> <img src="../images/concordance.jpg"/> </a>
+<a href="code.md"> <img src="../images/concordance.jpg"/> </a> 
+**Testing cosmic acceleration with large-scale structure**
 
-{% include image.html url="../images/concordance.jpg" description="Testing cosmic acceleration with large-scale structure" %}
