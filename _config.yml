@@ -8,6 +8,7 @@
 # Site Settings
 theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "dark"
+
 locale                   : "en-GB"
 title                    : "Seshadri Nadathur"
 title_separator          : "-"
