@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 4"
+title: "Environmental dependence of X-ray and optical properties of galaxy clusters in $\Lambda$CDM"
 collection: publications
 permalink: /publication/2020-10-01-paper-title-number-4
-excerpt: 'This is a test paper.'
+excerpt: ''
 date: 2020-10-01
-type: grid
-header.teaser: concordance.jpg
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2020). &quot;Paper Title Number 4.&quot; <i>Journal 1</i>. 1(3).'
