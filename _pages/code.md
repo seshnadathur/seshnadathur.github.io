@@ -20,5 +20,3 @@ iterative FFT method (optional). Can also be used for BAO reconstruction.
 -----
 Python code for modelling the void-galaxy correlation function and exploring the likelihoods for cosmological fits to
 data. Includes data products related to BOSS and eBOSS survey analyses.
-
-$\xi$
