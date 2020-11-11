@@ -1,5 +1,5 @@
 ---
-title: "Environmental dependence of X-ray and optical properties of galaxy clusters in $\Lambda$CDM"
+title: "Environmental dependence of X-ray and optical properties of galaxy clusters in $\\Lambda$CDM"
 collection: publications
 permalink: /publication/2020-10-01-paper-title-number-4
 excerpt: ''
