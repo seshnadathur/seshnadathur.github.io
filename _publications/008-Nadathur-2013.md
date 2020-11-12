@@ -6,4 +6,5 @@ arxiv_id: "1306.1700"
 author: "Seshadri Nadathur"
 reviewed: True
 journal: "MNRAS, 434, 398 (2013)"
+doi: "10.1093/mnras/stt1028"
 ---

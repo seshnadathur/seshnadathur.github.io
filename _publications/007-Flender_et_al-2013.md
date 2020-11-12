@@ -6,4 +6,5 @@ arxiv_id: "1212.0776"
 author: "Samuel Flender, Shaun Hotchkiss, Seshadri Nadathur"
 reviewed: True
 journal: "JCAP, 2013, 013 (2013)"
+doi: "10.1088/1475-7516/2013/02/013"
 ---

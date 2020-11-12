@@ -6,4 +6,5 @@ arxiv_id: "1505.05511"
 author: "Kari Enqvist, Seshadri Nadathur, Toyokazu Sekiguchi, Tomo Takahashi"
 reviewed: True
 journal: "JCAP, 2015, 067 (2015)"
+doi: "10.1088/1475-7516/2015/09/067"
 ---

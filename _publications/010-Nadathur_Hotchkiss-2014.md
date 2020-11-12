@@ -6,4 +6,5 @@ arxiv_id: "1310.2791"
 author: "Seshadri Nadathur, Shaun Hotchkiss"
 reviewed: True
 journal: "MNRAS, 440, 1248 (2014)"
+doi: "10.1093/mnras/stu349"
 ---

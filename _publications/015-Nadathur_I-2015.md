@@ -6,4 +6,5 @@ arxiv_id: "1504.06510"
 author: "S. Nadathur, S. Hotckiss"
 reviewed: True
 journal: "MNRAS, 454, 2228 (2015)"
+doi: "10.1093/mnras/stv2131"
 ---

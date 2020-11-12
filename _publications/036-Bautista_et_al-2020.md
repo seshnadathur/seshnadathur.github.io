@@ -6,4 +6,5 @@ arxiv_id: "2007.08993"
 author: "Julian E. Bautista, Romain Paviot, Mariana Vargas Maga&ntilde;a, <em>et al.</em>"
 reviewed: True
 journal: "MNRAS, in press (2020)"
+doi: "10.1093/mnras/staa2800"
 ---

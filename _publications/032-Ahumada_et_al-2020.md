@@ -6,4 +6,5 @@ arxiv_id: "1912.02905"
 author: "Romina Ahumada, Carlos Allende Prieto, Andr&eacute;s Almeida, <em>et al.</em>"
 reviewed: True
 journal: "ApJS, 249, 3 (2020)"
+doi: "10.3847/1538-4365/ab929e"
 ---

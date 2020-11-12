@@ -6,4 +6,5 @@ arxiv_id: "1405.3552"
 author: "S. Hotchkiss, S. Nadathur, S. Gottl&ouml;ber, I. T. Iliev,  A. Knebe, W. A. Watson, G. Yepes"
 reviewed: True
 journal: "MNRAS, 446, 1321 (2015)"
+doi: "10.1093/mnras/stu2072"
 ---

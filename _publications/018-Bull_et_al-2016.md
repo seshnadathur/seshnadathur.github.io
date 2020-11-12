@@ -6,4 +6,5 @@ arxiv_id: "1512.05356"
 author: "Philip Bull, Yashar Akrami, Julian Adamek, <em>et al.</em>"
 reviewed: True
 journal: "Phys. Dark U., 12, 56 (2016)"
+doi: "10.1016/j.dark.2016.02.001"
 ---

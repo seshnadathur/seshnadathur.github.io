@@ -6,4 +6,5 @@ arxiv_id: "1608.08638"
 author: "Seshadri Nadathur, Robert Crittenden"
 reviewed: True
 journal: "ApJL, 830, L19 (2016)"
+doi: "10.3847/2041-8205/830/1/L19"
 ---

@@ -6,4 +6,5 @@ arxiv_id: "1610.00637"
 author: "A. Kov&aacute;cs, C. S&aacute;nchez, J. Garc&iacute;a-Bellido, <em>et al.</em>"
 reviewed: True
 journal: "MNRAS, 465, 4166 (2017)"
+doi: "10.1093/mnras/stw2968"
 ---

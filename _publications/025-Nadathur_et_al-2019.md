@@ -6,4 +6,5 @@ arxiv_id: "1805.09349"
 author: "Seshadri Nadathur, Paul Carter, Will J. Percival"
 reviewed: True
 journal: "MNRAS, 482, 2459 (2019)"
+doi: "10.1093/mnras/sty2799"
 ---

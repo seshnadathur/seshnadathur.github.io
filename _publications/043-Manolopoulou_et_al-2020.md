@@ -6,4 +6,5 @@ arxiv_id: "2010.12671"
 author: "M. Manolopoulou, B. Hoyle, R. G. Mann, M. Sahl&eacute;n, S. Nadathur"
 reviewed: True
 journal: "MNRAS, in press (2020)"
+doi: "10.1093/mnras/staa3341"
 ---

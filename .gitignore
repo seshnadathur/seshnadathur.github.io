@@ -1,2 +1,5 @@
 _site/
-
+.idea
+.ipynb_checkpoints
+Gemfile.lock
+markdown_generator/.ipynb_checkpoints

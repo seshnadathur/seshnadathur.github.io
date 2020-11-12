@@ -6,4 +6,5 @@ arxiv_id: "1904.01030"
 author: "Seshadri Nadathur, Paul M. Carter, Will J. Percival, Hans A. Winther, Julian E. Bautista"
 reviewed: True
 journal: "Phys. Rev. D, 100, 023504 (2019)"
+doi: "10.1103/PhysRevD.100.023504"
 ---

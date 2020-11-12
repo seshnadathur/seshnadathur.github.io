@@ -6,4 +6,5 @@ arxiv_id: "1012.3460"
 author: "Seshadri Nadathur, Subir Sarkar"
 reviewed: True
 journal: "Phys. Rev. D, 83, 063506 (2011)"
+doi: "10.1103/PhysRevD.83.063506"
 ---

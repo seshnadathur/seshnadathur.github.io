@@ -6,4 +6,5 @@ arxiv_id: "1909.04394"
 author: "Adam J. Hawken, Marie Aubert, Alice Pisani, Marie-Claude Cousinou, St&eacute;phanie Escoffier, Seshadri Nadathur, Graziano Rossi, Donald P. Schneider"
 reviewed: True
 journal: "JCAP, 6, 012 (2020)"
+doi: "10.1088/1475-7516/2020/06/012"
 ---

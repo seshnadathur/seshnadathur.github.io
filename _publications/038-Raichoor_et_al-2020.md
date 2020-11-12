@@ -6,4 +6,5 @@ arxiv_id: "2007.09007"
 author: "Anand Raichoor, Arnaud de Mattia, Ashley J. Ross, <em>et al.</em>"
 reviewed: True
 journal: "MNRAS, in press (2020)"
+doi: "10.1093/mnras/staa3336"
 ---
