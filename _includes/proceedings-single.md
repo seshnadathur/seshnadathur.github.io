@@ -7,15 +7,6 @@
 {% endif %}
 
 {% capture line %}
-[{{post.number}}]. **{{post.title}}**, {{post.author}}, {{post.journal}}
+[{{post.number}}] **{{post.title}}**, {{post.author}}, {{post.journal}}
 {% endcapture %}
-{% if post.arxiv %}
-  {% capture line %}
-  {{line}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
-  {% endcapture %}
-{% endif}
-{% if post.published %}
-  {{line}}, [DOI](https://doi.org/{{ post.doi }})
-{% else %}
-  {{line}}
-{% endif %}
+{{line}}
