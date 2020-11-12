@@ -3,13 +3,12 @@
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.title %}
+    {% assign title = post.title %}
 {% endif %}
 
 {% capture line %}
 [{{post.number}}]. **{{post.title}}**, {{post.author}}, {{post.journal}}
 {% endcapture %}
-{{line}}
 {% if post.arxiv %}
   {% capture line %}
   {{line}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
