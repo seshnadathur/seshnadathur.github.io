@@ -10,26 +10,18 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.reviewed %}
-        <p> {{ post.no }}. {{ title }}
-          <span style="float: right;">[<a href="{{ post.arxiv_link }}">arXiv</a>|<a href="https://doi.org/{{ post.doi }}">DOI</a>]</span>
-        </p>
-      {% else %}
-        <p> {{ post.no }}. {{ title }}
-          <span style="float: right;">[<a href="{{ post.arxiv_link }}">arXiv</a>]</span>
-        </p>
-      {% endif %}
+      {{ post.no }}. {{ title }}
     </h3>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.reviewed %}
-          <p> {{ post.author }}, {{ post.journal }}, <i>ArXiv e-print</i> {{ post.arxiv_id }} </p>
-        {% else %}
-          <p> {{ post.author }}, ArXiv e-print {{ post.arxiv_id }} </p>
-        {% endif %}
+    {% if post.reviewed %}
+      <p> {{ post.author }}, <a href="https://doi.org/{{ post.doi }}">{{ post.journal }}</a>, <i>ArXiv e-print</i> <a href="{{ post.arxiv_link }}">{{ post.arxiv_id }}</a> </p>
+    {% else %}
+      <p> {{ post.author }}, <i>ArXiv e-print</i> <a href="{{ post.arxiv_link }}">{{ post.arxiv_id }}</a>  </p>
+    {% endif %}
 
   </article>
 </div>
