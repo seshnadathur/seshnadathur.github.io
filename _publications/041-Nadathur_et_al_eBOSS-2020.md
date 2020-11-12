@@ -5,5 +5,5 @@ arxiv_link: "https://arxiv.org/abs/2008.06060"
 arxiv_id: "2008.06060"
 author: "Seshadri Nadathur, Alex Woodfinden, Will J. Percival <em>et al.</em>"
 reviewed: True
-journal: "MNRAS, 499, 4140 (2020)"
+journal: "MNRAS, **499**, 4140 (2020)"
 ---
