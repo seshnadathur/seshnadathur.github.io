@@ -9,13 +9,6 @@ You can find a full list of my publications at [NASA ADS](https://ui.adsabs.harv
 
 {% include base_path %}
 
-<!-- {% assign num = site.publications.size %}
-{% assign rev_pubs = site.publications reversed %}
-
-{% for i in (1..num) reversed %}
-  {{ i }}
-{% endfor %} -->
-
-{% for post in site.publications reversed %}
+{% for post in site.papers reversed %}
   {% include paper-single.html %}
 {% endfor %}
