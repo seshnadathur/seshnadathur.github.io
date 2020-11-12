@@ -1,5 +1,5 @@
 ---
-number: "25"
+number: "24"
 title: "An accurate linear model for redshift space distortions in the void-galaxy correlation function"
 arxiv_link: "https://arxiv.org/abs/1712.07575"
 arxiv_id: "1712.07575"

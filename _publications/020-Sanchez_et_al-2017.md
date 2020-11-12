@@ -1,5 +1,5 @@
 ---
-number: "21"
+number: "20"
 title: "Cosmic voids and void lensing in the Dark Energy Survey Science Verification data"
 arxiv_link: "https://arxiv.org/abs/1605.03982"
 arxiv_id: "1605.03982"

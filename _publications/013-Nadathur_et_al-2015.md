@@ -1,5 +1,5 @@
 ---
-number: "14"
+number: "13"
 title: "Self-similarity and universality of void density profiles in simulation and SDSS data"
 arxiv_link: "https://arxiv.org/abs/1407.1295"
 arxiv_id: "1407.1295"

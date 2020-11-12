@@ -1,5 +1,5 @@
 ---
-number: "12"
+number: "14"
 title: "Can a supervoid explain the cold spot?"
 arxiv_link: "https://arxiv.org/abs/1408.4720"
 arxiv_id: "1408.4720"
