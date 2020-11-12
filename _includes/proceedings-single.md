@@ -7,7 +7,7 @@
 {% endif %}
 
 {% capture line %}
-[{{post.number}}]. *{{post.title}}*, {{post.author}}, {{post.journal}}
+[{{post.number}}]. **{{post.title}}**, {{post.author}}, {{post.journal}}
 {% endcapture %}
 {{line}}
 {% if post.arxiv %}
