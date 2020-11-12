@@ -6,21 +6,10 @@
     {% assign title = post.title %}
 {% endif %}
 
-{% capture line %}
-[{{post.number}}] **{{post.title}}**, {{post.author}}, {{post.journal}}
-{% endcapture %}
-{% if post.arxiv %}
-  {% capture arxiv_line %}
-  {{line}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
-  {% endcapture %}
-{% else %}
-  {% capture arxiv_line %}
-  {{line}}
-  {% endcapture %}
+{% if post.arxiv and post.published %}
+  [{{post.number}}] **{{post.title}}**, {{post.author}}, {{post.journal}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}}), [DOI](https://doi.org/{{post.doi}})
+{% elsif post.arxiv %}
+  [{{post.number}}] **{{post.title}}**, {{post.author}}, {{post.journal}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
+{% elsif post.published%}
+  [{{post.number}}] **{{post.title}}**, {{post.author}}, {{post.journal}}, [DOI](https://doi.org/{{post.doi}})
 {% endif %}
-{% if post.published %}
-  {{arxiv_line}}, [DOI](https://doi.org/{{post.doi}})
-{% else %}
-  {{arxiv_line}}
-{% endif %}
-{{arxiv_line}}
