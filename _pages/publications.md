@@ -20,5 +20,6 @@ A list of my publications appears below. An up-to-date version of this list, wit
 {% include base_path %}
 
 {% for post in site.proceedings reversed %}
+  {{post.title}}
   {% include proceedings-single.md %}
 {% endfor %}
