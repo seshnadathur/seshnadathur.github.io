@@ -9,7 +9,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <p> [{{ post.number }}]. {{ title }} </p>
+    <p> [{{ post.number }}]. <strong>{{ title }}</strong> </p>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
