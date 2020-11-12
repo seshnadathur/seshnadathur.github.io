@@ -3,23 +3,20 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Data & Code"
     url: /code/
 
-  # - title: "Talks"
-  #   url: /talks/
-
   - title: "Teaching"
     url: /teaching/
 
   - title: "Media & outreach"
     url: /outreach/
-
-  - title: "CV"
-    url: /cv/
 
   - title: "Contact"
     url: /contact/
