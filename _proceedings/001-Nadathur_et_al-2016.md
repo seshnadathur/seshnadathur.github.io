@@ -1,7 +1,7 @@
 ---
 number: "1"
 title: "Universal void density profiles from simulation and SDSS"
-arxiv: True"
+arxiv: True
 arxiv_link: "https://arxiv.org/abs/1412.8372"
 arxiv_id: "1412.8372"
 author: "S. Nadathur, S. Hotchkiss, J. M. Diego, I. T. Iliev, S. Gottl&ouml;ber, W. A. Watson, G. Yepes"
