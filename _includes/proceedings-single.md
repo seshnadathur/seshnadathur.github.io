@@ -18,4 +18,9 @@
   {{line}}
   {% endcapture %}
 {% endif %}
+{% if post.published %}
+  {{arxiv_line}}, [DOI](https://doi.org/{{post.doi}})
+{% else %}
+  {{arxiv_line}}
+{% endif %}
 {{arxiv_line}}
