@@ -6,9 +6,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-**[{{post.number}}]. {{post.title}}**
 {% if post.reviewed %}
-  {{post.author}}, [{{post.journal}}](https://doi.org/{{ post.doi }}), ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
+  **[{{post.number}}]. {{post.title}}**, {{post.author}}, [{{post.journal}}](https://doi.org/{{ post.doi }}), ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
 {% else %}
-  {{post.author}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
+  **[{{post.number}}]. {{post.title}}**, {{post.author}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
 {% endif %}
