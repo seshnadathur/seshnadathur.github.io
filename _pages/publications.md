@@ -10,9 +10,5 @@ You can find a full list of my publications at [NASA ADS](https://ui.adsabs.harv
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% if post.reviewed %}
-    [{{post.number}}]. **{{post.title}}**, {{post.author}}, [{{post.journal}}](https://doi.org/{{ post.doi }}), ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
-  {% else %}
-    [{{post.number}}]. **{{post.title}}**, {{post.author}}, ArXiv: [{{post.arxiv_id}}]({{post.arxiv_link}})
-  {% endif %}
+  {% include paper-single.md %}
 {% endfor %}
