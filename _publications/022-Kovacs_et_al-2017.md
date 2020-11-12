@@ -1,5 +1,5 @@
 ---
-no: "22"
+number: "22"
 title: "Imprint of DES superstructures on the cosmic microwave background"
 arxiv_link: "https://arxiv.org/abs/1610.00637"
 arxiv_id: "1610.00637"

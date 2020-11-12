@@ -1,5 +1,5 @@
 ---
-no: "16"
+number: "16"
 title: "The nature of voids - II. Tracing underdensities with biased galaxies"
 arxiv_link: "https://arxiv.org/abs/1507.00197"
 arxiv_id: "1507.00197"

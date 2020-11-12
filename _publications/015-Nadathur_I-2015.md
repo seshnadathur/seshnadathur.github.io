@@ -1,5 +1,5 @@
 ---
-no: "17"
+number: "17"
 title: "The nature of voids - I. Watershed void finders and their connection with theoretical models"
 arxiv_link: "https://arxiv.org/abs/1504.06510"
 arxiv_id: "1504.06510"

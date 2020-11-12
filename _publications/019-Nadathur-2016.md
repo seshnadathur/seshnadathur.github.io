@@ -1,5 +1,5 @@
 ---
-no: "19"
+number: "19"
 title: "Testing cosmology with a catalogue of voids in the BOSS galaxy surveys"
 arxiv_link: "https://arxiv.org/abs/1602.04752"
 arxiv_id: "1602.04752"

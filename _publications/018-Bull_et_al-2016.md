@@ -1,5 +1,5 @@
 ---
-no: "18"
+number: "18"
 title: "Beyond $\\Lambda$CDM: Problems, solutions, and the road ahead"
 arxiv_link: "https://arxiv.org/abs/1512.05356"
 arxiv_id: "1512.05356"

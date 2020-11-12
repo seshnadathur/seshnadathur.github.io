@@ -1,5 +1,5 @@
 ---
-no: "32"
+number: "32"
 title: "Testing Low-Redshift Cosmic Acceleration with Large-Scale Structure"
 arxiv_link: "https://arxiv.org/abs/2001.11044"
 arxiv_id: "2001.11044"

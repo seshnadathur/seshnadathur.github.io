@@ -1,5 +1,5 @@
 ---
-no: "38"
+number: "38"
 title: "The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: measurement of the BAO and growth rate of structure of the luminous red galaxy sample from the anisotropic correlation function between redshifts 0.6 and 1"
 arxiv_link: "https://arxiv.org/abs/2007.08993"
 arxiv_id: "2007.08993"

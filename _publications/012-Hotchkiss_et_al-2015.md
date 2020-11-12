@@ -1,5 +1,5 @@
 ---
-no: "13"
+number: "13"
 title: "The Jubilee ISW Project - II. Observed and simulated imprints of voids and superclusters on the cosmic microwave background"
 arxiv_link: "https://arxiv.org/abs/1405.3552"
 arxiv_id: "1405.3552"

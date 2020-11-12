@@ -1,5 +1,5 @@
 ---
-no: "43"
+number: "43"
 title: "Environmental dependence of X-ray and optical properties of galaxy clusters"
 arxiv_link: "https://arxiv.org/abs/2010.12671"
 arxiv_id: "2010.12671"

@@ -1,5 +1,5 @@
 ---
-no: "41"
+number: "41"
 title: "Dark Energy Survey Year 1 Results: the lensing imprint of cosmic voids on the Cosmic Microwave Background"
 arxiv_link: "https://arxiv.org/abs/1911.02951"
 arxiv_id: "1911.02951"

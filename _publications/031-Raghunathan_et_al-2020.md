@@ -1,5 +1,5 @@
 ---
-no: "28"
+number: "28"
 title: "The Gravitational Lensing Signatures of BOSS Voids in the Cosmic Microwave Background"
 arxiv_link: "https://arxiv.org/abs/1911.08475"
 arxiv_id: "1911.08475"

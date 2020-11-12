@@ -1,5 +1,5 @@
 ---
-no: "26"
+number: "26"
 title: "More out of less: an excess integrated Sachs-Wolfe signal from supervoids mapped out by the Dark Energy Survey"
 arxiv_link: "https://arxiv.org/abs/1811.07812"
 arxiv_id: "1811.07812"

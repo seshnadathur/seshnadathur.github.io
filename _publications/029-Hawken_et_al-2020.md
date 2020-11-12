@@ -1,5 +1,5 @@
 ---
-no: "31"
+number: "31"
 title: "Constraints on the growth of structure around cosmic voids in eBOSS DR14"
 arxiv_link: "https://arxiv.org/abs/1909.04394"
 arxiv_id: "1909.04394"
