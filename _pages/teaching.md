@@ -30,7 +30,7 @@ Graduate teaching
 ---
  
  I have taught the following PhD-level courses:
- - *Observational Cosmology*: contribution to core PhD course, covering CMB x LSS techniques (SZ, ISW techniques), at 
+ - *Observational Cosmology*: contribution to core PhD course, covering CMB x LSS techniques (SZ, ISW), at 
  ICG Portsmouth, 2017-2020
  - *Statistical Methods for Cosmic Structures*: advanced PhD course (covering spherical collapse, halo
  mass function, Press-Schechter theory, excursion set model, halo model, void number function) at ICG Portsmouth, 2017
