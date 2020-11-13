@@ -7,6 +7,7 @@ author_profile: true
 
 Undergraduate teaching
 ---
+
 I held the post of Stipendiary Lecturer in Physics at Trinity College, Oxford, from 2007-2011, at 30% FTE. I taught the 
 following courses:
 - *Mathematical Methods I and II*: covering differential calculus, complex numbers/analysis, ODEs, linear algebra, 
@@ -27,6 +28,7 @@ Class of 2010, on graduation in 2014
 
  Graduate teaching
  ---
+ 
  I have taught the following PhD-level courses:
  - *Observational Cosmology*: contribution to core PhD course, covering CMB x LSS techniques (SZ, ISW techniques), at 
  ICG Portsmouth, 2017-2020
