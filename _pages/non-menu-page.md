@@ -15,3 +15,5 @@ Heading 1
 
 Heading 2
 ======
+
+<p style="text-align: center;">>"I use the way you ran tutorials for all my small-group teaching"</p>
