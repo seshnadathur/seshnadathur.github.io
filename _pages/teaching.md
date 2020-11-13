@@ -37,7 +37,7 @@ Graduate teaching
  - *MCMC methods for cosmology*: advanced PhD course at ICG Portsmouth, 2019. A Jupyter notebook containing some of 
  course material used is available 
  [here](https://github.com/seshnadathur/IntroductionToMCMC/blob/master/IntroductionToMCMCMethodsLectures.ipynb). I also 
- gave lectures covering par tof this material at the Les Houches Euclid Advanced School in 2020, slides available 
+ gave lectures covering part of this material at the Les Houches Euclid Advanced School in 2020, slides available 
  [here](https://github.com/seshnadathur/IntroductionToMCMC/blob/master/lecture_slides_EuclidSchool.pdf).
  
   
