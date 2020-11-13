@@ -20,9 +20,9 @@ Public speaking
 I enjoy giving accessible public talks and lectures about astronomy, usually aimed at ages 14+. Some examples of talks 
 I have given are:
 - at Stargazing Live Portsmouth, a large annual astronomy event held at the [Historic 
-Dockyard](https://www.historicdockyard.co.uk/index.php) (2016 and 2017)
-- at the Winchester Science Festival
-- and to the [Hampshire Astronomical Group](https://hantsastro.org.uk/)
+Dockyard](https://www.historicdockyard.co.uk/index.php),
+- at the [Winchester Science Festival](https://www.winchestersciencecentre.org/),
+- and to the [Hampshire Astronomical Group](https://hantsastro.org.uk/).
  
 Print
 ----
