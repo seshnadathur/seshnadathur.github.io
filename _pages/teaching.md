@@ -26,8 +26,8 @@ Patrick Dunne (at Trinity 2008-12, now UKRI Future Leaders Fellow at Imperial Co
 
 Class of 2010, on graduation in 2014 
 
- Graduate teaching
- ---
+Graduate teaching
+---
  
  I have taught the following PhD-level courses:
  - *Observational Cosmology*: contribution to core PhD course, covering CMB x LSS techniques (SZ, ISW techniques), at 
