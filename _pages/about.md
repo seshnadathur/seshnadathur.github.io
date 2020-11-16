@@ -47,4 +47,4 @@ Other interests
 I am a keen hiker, mountaineer and climber. While at Oxford I served as both Secretary and Treasurer of the 
 [OUMC](http://users.ox.ac.uk/~climbing/), and I have climbed, organised expeditions and recorded occasional first 
 ascents in the Pyrenees, the Alps, the Dolomites, the Moroccan Anti-Atlas and the Indian Himalaya. I am a keen squash 
-player, and have played club cricket in 3 different countries (can you guess the third?).
+player, and have played club cricket in 3 different countries (can you guess which three?).
