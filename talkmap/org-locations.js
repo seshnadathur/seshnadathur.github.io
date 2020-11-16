@@ -25,6 +25,11 @@ var addressPoints = [
     73.82730742790449
   ],
   [
+    "Lisbon, Portugal",
+    38.7077507,
+    -9.1365919
+  ],
+  [
     "Peyton Hall, Princeton",
     40.3465523,
     -74.65169100300668
@@ -50,9 +55,19 @@ var addressPoints = [
     -0.03931034663016243
   ],
   [
+    "South Road, Durham DH1 3LE",
+    54.7686893,
+    -1.574173
+  ],
+  [
     "AIMS, Cape Town",
     -34.1070816,
     18.4705915
+  ],
+  [
+    "Scandic Holmenkollen Park Hotel, Oslo",
+    59.9629867,
+    10.664655275859959
   ],
   [
     "Philosophenweg 16, Heidelberg",
@@ -78,6 +93,11 @@ var addressPoints = [
     "Leibniz AIP, Potsdam",
     52.404607999999996,
     13.102796356074236
+  ],
+  [
+    "Universitaet Goettingen",
+    51.5592251,
+    9.952444154453854
   ],
   [
     "Niels Bohr Institute Copenhagen",
@@ -120,6 +140,11 @@ var addressPoints = [
     18.62864004583909
   ],
   [
+    "Clarendon Laboratory, Oxford",
+    51.759723699999995,
+    -1.256487872059829
+  ],
+  [
     "University of Lancaster",
     54.00975365,
     -2.787572601053264
@@ -133,6 +158,11 @@ var addressPoints = [
     "Barcelona, Spain",
     41.3828939,
     2.1774322
+  ],
+  [
+    "Denys Wilkinson building, Oxford",
+    51.759784350000004,
+    -1.2595742232549565
   ],
   [
     "Gustaf H\u00e4llstr\u00f6min katu, Helsinki",

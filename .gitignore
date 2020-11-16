@@ -3,3 +3,4 @@ _site/
 .ipynb_checkpoints
 Gemfile.lock
 markdown_generator/.ipynb_checkpoints
+_talks/
