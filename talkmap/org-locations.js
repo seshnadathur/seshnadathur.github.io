@@ -5,9 +5,19 @@ var addressPoints = [
     -0.08692531274182405
   ],
   [
+    "Michail Afentoulief, Chania 731 32",
+    35.5183938,
+    24.0191709
+  ],
+  [
     "20A Datun Road, Chaoyang District, Beijing, China",
     40.0010629,
     116.3948212
+  ],
+  [
+    "RWTH Aachen",
+    50.779170300000004,
+    6.068920799008829
   ],
   [
     "National Centre for Radio Astrophysics, Pune",
@@ -50,6 +60,11 @@ var addressPoints = [
     8.696709553306501
   ],
   [
+    "Hotel Planibel, La Thuile, Italy",
+    45.7124744,
+    6.9489898
+  ],
+  [
     "University of Hull",
     53.7710908,
     -0.3683905962694075
@@ -58,6 +73,16 @@ var addressPoints = [
     "Sexten, Italy",
     46.7027185,
     12.349573
+  ],
+  [
+    "Leibniz AIP, Potsdam",
+    52.404607999999996,
+    13.102796356074236
+  ],
+  [
+    "Niels Bohr Institute Copenhagen",
+    55.6970372,
+    12.571574419652498
   ],
   [
     "University of Waterloo",
@@ -70,6 +95,11 @@ var addressPoints = [
     -6.6007526
   ],
   [
+    "Ngweni Road, Hluhluwe, 3960, South Africa",
+    -27.949594,
+    32.2445933
+  ],
+  [
     "Via Alfonso Corti, 12, Milan",
     45.4805862,
     9.2316977
@@ -78,6 +108,11 @@ var addressPoints = [
     "University of Toronto",
     43.663461999999996,
     -79.39775965337452
+  ],
+  [
+    "ICTP Trieste",
+    45.70365635,
+    13.720558120151058
   ],
   [
     "University of the Western Cape",
@@ -98,5 +133,10 @@ var addressPoints = [
     "Barcelona, Spain",
     41.3828939,
     2.1774322
+  ],
+  [
+    "Gustaf H\u00e4llstr\u00f6min katu, Helsinki",
+    60.2056439,
+    24.9624172
   ]
 ];
