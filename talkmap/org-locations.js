@@ -169,4 +169,14 @@ var addressPoints = [
     60.2056439,
     24.9624172
   ]
+  [
+    "NASA Jet Propulsion Laboratory, Pasadena",
+    34.201667,
+    -118.171667
+  ]
+  [
+    "Newcastle University",
+    54.9792,
+    -1.6147
+  ]
 ];
