@@ -4,5 +4,7 @@ title: "The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: 
 arxiv_link: "https://arxiv.org/abs/2007.09008"
 arxiv_id: "2007.09008"
 author: "Arnaud de Mattia, Vanina Ruhlmann-Kleider, Anand Raichoor, <em>et al.</em>"
-reviewed: False
+reviewed: True
+journal: "MNRAS, 501, 5616 (2021)"
+doi: "10.1093/mnras/staa3891"
 ---

@@ -7,7 +7,7 @@ author_profile: true
 
 Map
 ---
-Here is a map of all the places I have given a talk (some of them virtually):
+Here is a map of all the places I have given a talk (some of them virtually during the pandemic):
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 
 Recent talk resources
