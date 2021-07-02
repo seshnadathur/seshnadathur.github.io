@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at the [Institute of Cosmology and Gravitation](http://www.icg.port.ac.uk/) at the [University of
-Portsmouth](https://www.port.ac.uk/) (until Dec 2020), and [STFC](https://stfc.ukri.org/) [Ernest Rutherford 
+I am an [STFC](https://stfc.ukri.org/) [Ernest Rutherford 
 Fellow](https://stfc.ukri.org/funding/fellowships/ernest-rutherford-fellowship/) at [University College 
-London](https://www.ucl.ac.uk/physics-astronomy/) (from Jan 2021).
-
-I study the properties of dark energy, dark matter and gravity using data on the large-scale structure of the Universe 
+London](https://www.ucl.ac.uk/physics-astronomy/). I study the properties of dark energy, dark matter and gravity using data on the large-scale structure of the Universe 
 gathered by galaxy surveys on the world's leading telescopes.
 
 My background
@@ -24,7 +21,7 @@ took an MPhys degree at Trinity College. I then held a Clarendon Domus scholarsh
 completed in 2011. I held short postdoctoral positions at the University of Bielefeld and the University of Helsinki 
 before taking up a [Marie Sk&#0322;odowska-Curie Individual 
 Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) and the Dennis Sciama 
-Fellowship at the ICG in Portsmouth in 2015.
+Fellowship at the Institute of Cosmology and Gravitation in Portsmouth in 2015.
 
 My research
 ======
@@ -46,5 +43,5 @@ Other interests
 ====
 I am a keen hiker, mountaineer and climber. While at Oxford I served as both Secretary and Treasurer of the 
 [OUMC](http://users.ox.ac.uk/~climbing/), and I have climbed, organised expeditions and recorded occasional first 
-ascents in the Pyrenees, the Alps, the Dolomites, the Moroccan Anti-Atlas and the Indian Himalaya. I am a keen squash 
+ascents in the Indian Himalaya, the Alps, the Dolomites, the Moroccan Anti-Atlas, and the Pyrenees. I am a keen squash 
 player, and have played club cricket in 3 different countries (can you guess which three?).
