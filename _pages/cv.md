@@ -13,7 +13,8 @@ A PDF version (updated November 2020) is available [here](http://seshnadathur.gi
 
 Positions
 ------
-* **2021-** &mdash; STFC Ernest Rutherford Fellow, University College London
+* **2022-** &mdash; Senior Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth
+* **2021-2022** &mdash; Senior Research Fellow, University College London
 * **2015-2020** &mdash; Research Fellow, Institute of Cosmology and Gravitation, University of Portsmouth
 * **2013-2015** &mdash; Postdoctoral fellow, University of Helsinki
 * **2011-2013** &mdash; Postdoctoral fellow, University of Bielefeld
@@ -21,7 +22,7 @@ Positions
 
 Selected Awards and Fellowships
 ------
-* **2020** &mdash; STFC Ernest Rutherford Fellowship (~£528K)
+* **2021** &mdash; STFC Ernest Rutherford Fellowship (~£528K)
 * **2015** &mdash; Marie Sk&#0322;odowska-Curie Individual Fellowship (~€183K)
 * **2015** &mdash; Dennis Sciama Fellowship
 * **2011** &mdash; University of Oxford Vice Chancellor's Award
