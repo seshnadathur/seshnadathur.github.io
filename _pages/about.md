@@ -19,7 +19,7 @@ Scholarship](https://www.rhodeshouse.ox.ac.uk/) to the [University of Oxford](ht
 took an MPhys degree at Trinity College. I then held a Clarendon Domus scholarship during my DPhil (PhD). I held short postdoctoral positions at the University of Bielefeld and the University of Helsinki
 before taking up a [Marie Sk&#0322;odowska-Curie Individual
 Fellowship](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en) and the Dennis Sciama
-Fellowship at the ICG in Portsmouth. I moved briefly to UCL before returning to Portsmouth in 2022.
+Fellowship at the ICG in Portsmouth. I then moved to UCL before returning to Portsmouth in 2022.
 
 My research
 ======
